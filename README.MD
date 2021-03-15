@@ -1,7 +1,7 @@
 # Calculate π
 
 I wrote this program on 3/14/2021 to celebrate Pi DAY!!! 
-I was partly inspired by @jomaoppa where in one of his videos he calculates the number Pi using a different method. [Here's the link to that video](https://www.youtube.com/watch?v=pvimAM_SLic)
+I was partly inspired by jomatech (@jomaoppa) where in one of his videos he calculates the number Pi using a different method. [Here's the link to that video](https://www.youtube.com/watch?v=pvimAM_SLic)
 
 ## My approach/explanation to this question:
 I use the concept of integral to achive this. 
